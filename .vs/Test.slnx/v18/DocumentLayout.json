@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Practies\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|c:\\practies\\test\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|c:\\practies\\test\\test\\pract\\phello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|solutionrelative:test\\pract\\phello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|c:\\practies\\test\\test\\pract\\rev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|solutionrelative:test\\pract\\rev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|c:\\practies\\test\\test\\phashset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|solutionrelative:test\\phashset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|c:\\practies\\test\\test\\pvobel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|solutionrelative:test\\pvobel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|c:\\practies\\test\\test\\pfactorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|solutionrelative:test\\pfactorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|c:\\practies\\test\\test\\pswap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|solutionrelative:test\\pswap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|c:\\practies\\test\\test\\pinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|solutionrelative:test\\pinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|c:\\practies\\test\\test\\plist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|solutionrelative:test\\plist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|c:\\practies\\test\\test\\pinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|solutionrelative:test\\pinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|c:\\practies\\test\\test\\pabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|solutionrelative:test\\pabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|c:\\practies\\test\\test\\moverriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|solutionrelative:test\\moverriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|c:\\practies\\test\\test\\moverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|solutionrelative:test\\moverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|c:\\practies\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1E64AE-D0ED-E6EE-0445-2888C87C6BF3}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PHello.cs",
+              "DocumentMoniker": "C:\\Practies\\Test\\Test\\Pract\\PHello.cs",
+              "RelativeDocumentMoniker": "Test\\Pract\\PHello.cs",
+              "ToolTip": "C:\\Practies\\Test\\Test\\Pract\\PHello.cs",
+              "RelativeToolTip": "Test\\Pract\\PHello.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T05:51:36.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PHashset.cs",
+              "DocumentMoniker": "C:\\Practies\\Test\\Test\\PHashset.cs",
+              "RelativeDocumentMoniker": "Test\\PHashset.cs",
+              "ToolTip": "C:\\Practies\\Test\\Test\\PHashset.cs",
+              "RelativeToolTip": "Test\\PHashset.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T14:02:37.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PFactorial.cs",
+              "DocumentMoniker": "C:\\Practies\\Test\\Test\\PFactorial.cs",
+              "RelativeDocumentMoniker": "Test\\PFactorial.cs",
+              "ToolTip": "C:\\Practies\\Test\\Test\\PFactorial.cs",
+              "RelativeToolTip": "Test\\PFactorial.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T10:29:02.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PList.cs",
+              "DocumentMoniker": "C:\\Practies\\Test\\Test\\PList.cs",
+              "RelativeDocumentMoniker": "Test\\PList.cs",
+              "ToolTip": "C:\\Practies\\Test\\Test\\PList.cs",
+              "RelativeToolTip": "Test\\PList.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T16:45:38.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PInheritance.cs",
+              "DocumentMoniker": "C:\\Practies\\Test\\Test\\PInheritance.cs",
+              "RelativeDocumentMoniker": "Test\\PInheritance.cs",
+              "ToolTip": "C:\\Practies\\Test\\Test\\PInheritance.cs",
+              "RelativeToolTip": "Test\\PInheritance.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T15:41:12.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PInterface.cs",
+              "DocumentMoniker": "C:\\Practies\\Test\\Test\\PInterface.cs",
+              "RelativeDocumentMoniker": "Test\\PInterface.cs",
+              "ToolTip": "C:\\Practies\\Test\\Test\\PInterface.cs",
+              "RelativeToolTip": "Test\\PInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T14:35:12.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pabstract.cs",
+              "DocumentMoniker": "C:\\Practies\\Test\\Test\\Pabstract.cs",
+              "RelativeDocumentMoniker": "Test\\Pabstract.cs",
+              "ToolTip": "C:\\Practies\\Test\\Test\\Pabstract.cs",
+              "RelativeToolTip": "Test\\Pabstract.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T14:28:05.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.csproj",
+              "DocumentMoniker": "C:\\Practies\\Test\\Test\\Test.csproj",
+              "RelativeDocumentMoniker": "Test\\Test.csproj",
+              "ToolTip": "C:\\Practies\\Test\\Test\\Test.csproj",
+              "RelativeToolTip": "Test\\Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-15T13:24:53.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pswap.cs",
+              "DocumentMoniker": "C:\\Practies\\Test\\Test\\Pswap.cs",
+              "RelativeDocumentMoniker": "Test\\Pswap.cs",
+              "ToolTip": "C:\\Practies\\Test\\Test\\Pswap.cs",
+              "RelativeToolTip": "Test\\Pswap.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T10:25:01.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rev.cs",
+              "DocumentMoniker": "C:\\Practies\\Test\\Test\\Pract\\rev.cs",
+              "RelativeDocumentMoniker": "Test\\Pract\\rev.cs",
+              "ToolTip": "C:\\Practies\\Test\\Test\\Pract\\rev.cs",
+              "RelativeToolTip": "Test\\Pract\\rev.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T07:07:12.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PVobel.cs",
+              "DocumentMoniker": "C:\\Practies\\Test\\Test\\PVobel.cs",
+              "RelativeDocumentMoniker": "Test\\PVobel.cs",
+              "ToolTip": "C:\\Practies\\Test\\Test\\PVobel.cs",
+              "RelativeToolTip": "Test\\PVobel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T13:48:53.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Moverriding.cs",
+              "DocumentMoniker": "C:\\Practies\\Test\\Test\\Moverriding.cs",
+              "RelativeDocumentMoniker": "Test\\Moverriding.cs",
+              "ToolTip": "C:\\Practies\\Test\\Test\\Moverriding.cs",
+              "RelativeToolTip": "Test\\Moverriding.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T13:29:34.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Moverloading.cs",
+              "DocumentMoniker": "C:\\Practies\\Test\\Test\\Moverloading.cs",
+              "RelativeDocumentMoniker": "Test\\Moverloading.cs",
+              "ToolTip": "C:\\Practies\\Test\\Test\\Moverloading.cs",
+              "RelativeToolTip": "Test\\Moverloading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T13:25:18.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Practies\\Test\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Practies\\Test\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T13:24:28.047Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

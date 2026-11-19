@@ -1,0 +1,15 @@
+C:\Practies\Test\Test\bin\Debug\net10.0\Test.exe
+C:\Practies\Test\Test\bin\Debug\net10.0\Test.deps.json
+C:\Practies\Test\Test\bin\Debug\net10.0\Test.runtimeconfig.json
+C:\Practies\Test\Test\bin\Debug\net10.0\Test.dll
+C:\Practies\Test\Test\bin\Debug\net10.0\Test.pdb
+C:\Practies\Test\Test\obj\Debug\net10.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practies\Test\Test\obj\Debug\net10.0\Test.AssemblyInfoInputs.cache
+C:\Practies\Test\Test\obj\Debug\net10.0\Test.AssemblyInfo.cs
+C:\Practies\Test\Test\obj\Debug\net10.0\Test.csproj.CoreCompileInputs.cache
+C:\Practies\Test\Test\obj\Debug\net10.0\Test.dll
+C:\Practies\Test\Test\obj\Debug\net10.0\refint\Test.dll
+C:\Practies\Test\Test\obj\Debug\net10.0\Test.pdb
+C:\Practies\Test\Test\obj\Debug\net10.0\Test.genruntimeconfig.cache
+C:\Practies\Test\Test\obj\Debug\net10.0\ref\Test.dll
+C:\Practies\Test\Test\obj\Debug\net10.0\Test.csproj.Up2Date
